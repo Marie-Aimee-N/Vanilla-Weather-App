@@ -1,0 +1,42 @@
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 600;
+  color: palevioletred;
+}
+.container {
+  max-width: 50%;
+}
+.details {
+  font-size: 20px;
+  opacity: 0.5;
+  color: purple;
+}
+.weather {
+  font-size: 20px;
+  display: block;
+  font-weight: 500;
+  color: palevioletred;
+}
+.btn-success {
+  color: white;
+  background-color: violet;
+  font-weight: bolder;
+}
+.btn-success:hover {
+  background-color: pink;
+}
+.btn-primary {
+  color: white;
+  background-color: violet;
+  font-weight: bolder;
+}
+.btn-primary:hover {
+  background-color: pink;
+}
+footer {
+  color: purple;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
