@@ -106,7 +106,7 @@ function turnsili(event) {
   faren.classList.remove("active");
   temp2.innerHTML = cili;
 }
-search("sydney");
+search("Mbabane");
 let form = document.querySelector("#search-form");
 form.addEventListener("submit", handdle);
 
